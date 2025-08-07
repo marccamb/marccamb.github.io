@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "MC Cambon"
+  navbar:
+    logo: images/logo_oak_syncom_dark_500.png
+    background: "#77964e" #"primary"
+    foreground: "light"
+    left:
+      - href: index.qmd
+        text: Home
+        icon: person
+      - href: publications.qmd
+        icon: book
+    # tools:
+    #   - icon: bluesky
+    #     href: https://bsky.app/profile/marccamb.bsky.social
+    #   - icon: github
+    #     menu:
+    #       - text: Source Code
+    #         href:  https://github.com/marccamb/marccamb.github.io
+    #       - text: My GitHub profile
+    #         href:  https://github.com/marccamb
+  page-footer: 
+    left: "Copyright 2025, MC Cambon" 
+  repo-url: https://github.com/marccamb/marccamb.github.io
+  repo-actions: [source]
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+

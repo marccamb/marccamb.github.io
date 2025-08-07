@@ -1,0 +1,47 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"List of publications\"\n",
+        "format: html\n",
+        "bibliography: publications/publications.bib\n",
+        "csl: publications/apa-annotated-bibliography.csl\n",
+        "nocite: |\n",
+        "  @*\n",
+        "---\n",
+        "\n",
+        "```{include = F}\n",
+        "\n",
+        "# Read the file\n",
+        "text <- readLines(\"publications/publications.bib\")\n",
+        "\n",
+        "# Replace text\n",
+        "text <- gsub(\"Cambon, Marine C\", \"*Cambon, Marine C*\", text)\n",
+        "\n",
+        "# Write back to file\n",
+        "writeLines(text, \"publications/publications.bib\")\n",
+        "```\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "::: {#refs}\n",
+        ":::"
+      ],
+      "id": "80a7bbd0"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

@@ -1,0 +1,42 @@
+---
+title: "Marine C. Cambon"
+about:
+  template: solana
+  id: presentation
+  image: images/profile2.jpg
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/marccamb.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/marccamb
+    - icon: orcid
+      text: Orcid
+      href: https://orcid.org/0000-0001-5234-4196  
+    - icon: scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=dfE59eAAAAAJ&hl=fr&inst=6297097477975492460
+    - icon: envelope
+      text: email
+      href: mailto:cambonmarine@gmail.com
+---
+
+:::{#presentation}
+
+# **Understanding host-pathogen-microbiota interactions**
+
+I am a microbial ecologist working the multiple and complex interactions existing between a host and its associated microorganisms. These microorganisms can either be pathogens or members of the host microbiota and potentially interact with each other. Interactions between microorganisms or with the host can vary with environmental conditions, and impact the ecology and evolution of all partners. I have been using a combination of lab experiments, field sampling and bioinformatics, on insect and plant hosts.
+
+:::
+
+# Academic positions
+
+-   blabla
+
+-   blladq
+
+-   
+I am a microbial ecologist working the multiple and complex interactions existing between a host and its associated microorganisms. These microorganisms can either be pathogens or members of the host microbiota and potentially interact with each other. Interactions between microorganisms or with the host can vary with environmental conditions, and impact the ecology and evolution of all partners. I have been using a combination of lab experiments, field sampling and bioinformatics, on insect and plant hosts.
