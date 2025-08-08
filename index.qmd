@@ -28,13 +28,42 @@ about:
 
 # **Understanding host-pathogen-microbiota interactions**
 
-I am a microbial ecologist working the multiple and complex interactions existing between a host and its associated microorganisms. These microorganisms can either be pathogens or members of the host microbiota and potentially interact with each other. Interactions between microorganisms or with the host can vary with environmental conditions, and impact the ecology and evolution of all partners. I have been using a combination of lab experiments, field sampling and bioinformatics, on insect and plant hosts.
+I am a microbial ecologist working the multiple and complex interactions existing between a host and its associated microorganisms. These microorganisms can either be pathogens or members of the host microbiota and potentially interact with each other. Interactions between microorganisms or with the host can vary with environmental conditions, and impact the ecology and evolution of all partners. I have been using a combination of lab experiments including synthetic communities (SynComs), field sampling and bioinformatics, on insect and plant hosts.
 
 :::
 
+:::{.column-page}
 ![](images/project_bg2.jpg)
+:::
 
-# Academic positions
+# Experience
+<!-- For installing fontawesome extension: -->
+<!-- quarto install extension quarto-ext/fontawesome -->
 
-# Training
+#### **Research Fellow in Microbial Ecology**
+  - {{< fa calendar >}} 2023-04-01 - current
+  - {{< fa location-dot >}} Birmingham, UK
+  - University of Birmingham, [James McDonald's lab](https://www.birmingham.ac.uk/schools/biosciences/staff/profile.aspx?ReferenceId=199042&Name=professor-james-mcdonald)
+  - UK Treescapes Fellowship
+  - Oak SynCom project: Understanding pathogen-microbiota interactions in tree disease using synthetic communities of the oak microbiota
+
+#### **Postdoctoral researcher Microbial Ecology and Forest Pathology**
+- {{< fa calendar >}} 2020-12-17 to 2023-03-15
+- {{< fa location-dot >}} Bangor, Wales, UK
+- Bangor University, [James McDonald's lab](https://www.birmingham.ac.uk/schools/biosciences/staff/profile.aspx?ReferenceId=199042&Name=professor-james-mcdonald)
+- [BACSTOP project](https://bacterialplantdiseases.uk/bac-stop/): Understanding Acute Oak Decline in the UK: the role of oak microbiome, environment, and interactions between bacterial pathogens and the the two-spotted oak buprestid.
+
+#### **Postdoctoral researcher in microbial ecology**  
+- {{< fa calendar >}} 2019-05-01 to 2020-12-15
+- {{< fa location-dot >}} Bordeaux, France
+- [BioGeCo](https://www6.bordeaux-aquitaine.inrae.fr/biogeco/), INRAE, Corinne Vacher's lab
+-Leaf microbiota as a bioindicator of drought stress in trees: toward next-generation biomonitoring of forest ecosystems.
+
+#### **PhD student in microbial ecology and evolution**  
+- {{< fa calendar >}} 2015-10-01 to 2018-12-14
+- {{< fa location-dot >}} Toulouse, France
+- EDB, CNRS, Paul Sabatier University, Jean-Baptiste Ferdy's lab
+- DGIMI, INRAE Montpellier University, Sophie Gaudriault's lab
+- Heterogeneity within infections: the case of the vector-borne insect pathogen, *Xenorhabdus nematophila*
+
 
