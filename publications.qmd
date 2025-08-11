@@ -16,6 +16,6 @@ citeproc: false
 ::: {#refs}
 :::
 
-----
+------------------------------------------------------------------------
 
-For turning my name to bold in this list I used [the code from this page](For names in bold, I have used the code from https://www.neilwright.uk/posts/quarto-bibliography-format-name) 
+For turning my name to bold in this list I used [the code from this page](For%20names%20in%20bold,%20I%20have%20used%20the%20code%20from%20https://www.neilwright.uk/posts/quarto-bibliography-format-name)
