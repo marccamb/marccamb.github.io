@@ -4,7 +4,7 @@ project:
 website:
   title: "MC Cambon"
   navbar:
-    logo: images/logo_oak_syncom_dark_500.png
+    #logo: images/logo_oak_syncom_dark_500.png
     background: "#77964e" #"primary"
     foreground: "light"
     left:
