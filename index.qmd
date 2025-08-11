@@ -44,7 +44,7 @@ I am a microbial ecologist working the multiple and complex interactions existin
 
 -   {{< fa calendar >}} 2023-04-01 - current
 -   {{< fa location-dot >}} Birmingham, UK
--   University of Birmingham, [James McDonald's lab](https://www.birmingham.ac.uk/schools/biosciences/staff/profile.aspx?ReferenceId=199042&Name=professor-james-mcdonald)
+-   University of Birmingham, [James McDonald's lab](https://www.birmingham.ac.uk/staff/profiles/biosciences/mcdonald-james)
 -   UK Treescapes Fellowship
 -   Oak SynCom project: Understanding pathogen-microbiota interactions in tree disease using synthetic communities of the oak microbiota
 
@@ -52,7 +52,7 @@ I am a microbial ecologist working the multiple and complex interactions existin
 
 -   {{< fa calendar >}} 2020-12-17 to 2023-03-15
 -   {{< fa location-dot >}} Bangor, Wales, UK
--   Bangor University, [James McDonald's lab](https://www.birmingham.ac.uk/schools/biosciences/staff/profile.aspx?ReferenceId=199042&Name=professor-james-mcdonald)
+-   Bangor University, [James McDonald's lab](https://www.birmingham.ac.uk/staff/profiles/biosciences/mcdonald-james)
 -   [BACSTOP project](https://bacterialplantdiseases.uk/bac-stop/): Understanding Acute Oak Decline in the UK: the role of oak microbiome, environment, and interactions between bacterial pathogens and the the two-spotted oak buprestid.
 
 #### {{< fa leaf >}} **Postdoctoral researcher in microbial ecology**
