@@ -27,7 +27,7 @@ about:
 ::: {#presentation}
 # **Understanding host-pathogen-microbiota interactions**
 
-I am a microbial ecologist working the multiple and complex interactions existing between a host and its associated microorganisms. These microorganisms can either be pathogens or members of the host microbiota and potentially interact with each other. Interactions between microorganisms or with the host can vary with environmental conditions, and impact the ecology and evolution of all partners. I have been using a combination of lab experiments including synthetic communities (SynComs), field sampling and bioinformatics, on insect and plant hosts.
+I am a microbial ecologist working the multiple and complex interactions existing between a host and its associated microorganisms. These microorganisms can either be pathogens or members of the host microbiota and potentially interact with each other. Interactions between microorganisms or with the host can vary with environmental conditions, and impact the ecology and evolution of all partners. I have been using a combination of lab experiments including synthetic communities (SynComs), field sampling and bioinformatics, on insect and plant hosts. TEST
 :::
 
 ::: column-page
